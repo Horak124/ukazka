@@ -1,2 +1,4 @@
 Seznam věcí které umím
 Html
+crazy
+Javascript
